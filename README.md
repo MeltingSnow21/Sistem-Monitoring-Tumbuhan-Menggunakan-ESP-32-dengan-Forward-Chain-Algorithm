@@ -24,7 +24,7 @@ buatlah tampilan yang sama dengan dashboard desktop.
 data sudah dapat dimonitoring melalui smartphone dan desktop.
 
 Diagram arsitektur:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://drive.google.com/file/d/1FpvA2abXJcRgdz8E31Q2eQHB8xevIyPd/view?usp=sharing)
 
 
 
