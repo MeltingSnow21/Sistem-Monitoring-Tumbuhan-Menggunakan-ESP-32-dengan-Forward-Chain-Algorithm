@@ -23,6 +23,13 @@ Unduh blynk IoT dari smartphone anda, upload code dan lakukan pairing pada devic
 buatlah tampilan yang sama dengan dashboard desktop.
 data sudah dapat dimonitoring melalui smartphone dan desktop.
 
+Diagram arsitektur:
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
+
 Saran perbaikan :
 gunakan rellay 3,3 v agar output dan input tegangan seimbang dengan pinout ESP32
 jika mengalami masalah koneksi server, buatlah projek baru dan reupload projek lama untuk menimpa projek pada blynk.
