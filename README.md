@@ -24,8 +24,7 @@ buatlah tampilan yang sama dengan dashboard desktop.
 data sudah dapat dimonitoring melalui smartphone dan desktop.
 
 Diagram arsitektur:
-![This is an image](https://drive.google.com/file/d/1FpvA2abXJcRgdz8E31Q2eQHB8xevIyPd/view?usp=sharing)
-
+![arsitektur diagram](https://user-images.githubusercontent.com/56537007/147852134-c6f5333d-f7ef-469f-aeef-470431fe840b.png)
 
 
 
