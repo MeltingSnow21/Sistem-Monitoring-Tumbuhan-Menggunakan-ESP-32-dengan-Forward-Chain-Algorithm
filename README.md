@@ -27,6 +27,8 @@ Diagram arsitektur:
 ![arsitektur diagram](https://user-images.githubusercontent.com/56537007/147852134-c6f5333d-f7ef-469f-aeef-470431fe840b.png)
 
 
+Vidio presentasi:
+https://user-images.githubusercontent.com/56537007/147852504-a57dfedb-3cdb-42be-a594-b1bf58306e6b.mp4
 
 
 Saran perbaikan :
